@@ -1,7 +1,7 @@
 ## Clear New Tab - Privacy Policy
 
 ### Your Consent
-By using the Clear New Tab extension for Chrome or Firefox, you consent to this privacy policy.
+By using the Clear New Tab extension for Chrome, Edge or Firefox, you consent to this privacy policy.
 
 ### Personal Information
 We do not collect, transmit or sell your personal or sensitive data such as cookies, authentication information, browsing history, web browsing activity etc. Only anonymous usage information is collected (see below), including but not limited to the prevalence of the use of certain extension's features.
